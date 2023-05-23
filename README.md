@@ -1,2 +1,2 @@
-# intro-to-cs-fm
+# algorithms-exercises
 Created with CodeSandbox
